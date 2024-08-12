@@ -223,7 +223,7 @@ footer p {
   background-position: center;
   background-size: cover;
   overflow: hidden;
-  padding: 92px 24px 72px 24px;
+  padding: 0 24px;
   height: 428px;
   align-content: center;
 }
@@ -293,7 +293,7 @@ footer .lbl-section {
     margin-top: 80px;
   }
   .main-footer {
-    padding: 92px 97px 64px 97px;
+    padding: 0 97px;
     background-image: linear-gradient(
         rgba(77, 150, 169, 0.9),
         rgba(77, 150, 169, 0.9)
@@ -378,7 +378,7 @@ footer .lbl-section {
 
     display: flex;
     justify-content: space-between;
-    padding: 116px 165px 104px 165px;
+    padding: 0 165px;
     height: 308px;
   }
   .main-footer h2 {
