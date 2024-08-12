@@ -219,12 +219,13 @@ footer p {
       rgba(77, 150, 169, 0.9)
     ),
     url(/assets/mobile/image-footer.jpg);
-  background-size: auto 100%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   overflow: hidden;
   padding: 92px 24px 72px 24px;
+  height: 428px;
+  align-content: center;
 }
 
 footer .lbl-section {
@@ -298,6 +299,7 @@ footer .lbl-section {
         rgba(77, 150, 169, 0.9)
       ),
       url(/assets/tablet/image-footer.jpg);
+    height: 428px;
   }
   .main-footer h2 {
     margin: 0 120px;
@@ -377,15 +379,18 @@ footer .lbl-section {
     display: flex;
     justify-content: space-between;
     padding: 116px 165px 104px 165px;
+    height: 308px;
   }
   .main-footer h2 {
     font-size: 40px;
     margin: 0;
     width: 350px;
+    align-self: center;
   }
   .main-footer p {
     width: 350px;
     margin: 0;
+    align-self: center;
   }
   .footer-button-wrapper {
     align-content: center;
