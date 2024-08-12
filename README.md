@@ -12,7 +12,3 @@ The Meet Landing Page is a responsive web page designed to showcase a virtual me
 - Mobile, tablet & desktop layouts.
 - Design system for colors, fonts, etc.
 - Optimized image assets.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
